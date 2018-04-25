@@ -1,2 +1,3 @@
 # siglyser
-The open source signal processing web application.
+Please visit the below repository:
+https://github.com/siglyser/siglyser
